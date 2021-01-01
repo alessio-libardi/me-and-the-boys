@@ -1,7 +1,5 @@
 {
     "plugins": {
-        "postcss-import": {},
-        "postcss-url": {},
         "tailwindcss": {},
         "postcss-preset-env": {
             "stage": 1
