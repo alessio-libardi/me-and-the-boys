@@ -1,0 +1,32 @@
+{
+  "name": "@alessio-libardi/me-and-the-boys",
+  "version": "1.0.0",
+  "description": "Me and the boys website",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessio-libardi/me-and-the-boys.git"
+  },
+  "author": "Alessio Libardi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alessio-libardi/me-and-the-boys/issues"
+  },
+  "homepage": "https://github.com/alessio-libardi/me-and-the-boys#readme",
+  "dependencies": {
+    "@tailwindcss/postcss7-compat": "^2.0.2",
+    "parcel": "^2.0.0-beta.1",
+    "postcss": "^7.0.35",
+    "postcss-import": "^12.0.1",
+    "postcss-preset-env": "^6.7.0",
+    "postcss-url": "^8.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
+  },
+  "devDependencies": {}
+}
