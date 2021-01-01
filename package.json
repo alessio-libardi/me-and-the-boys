@@ -2,9 +2,10 @@
   "name": "@alessio-libardi/me-and-the-boys",
   "version": "1.0.0",
   "description": "Me and the boys website",
-  "main": "index.js",
+  "browser": "dist/index.html",
   "scripts": {
     "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html --dist-dir dist",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,15 +19,14 @@
   },
   "homepage": "https://github.com/alessio-libardi/me-and-the-boys#readme",
   "dependencies": {
-    "@tailwindcss/postcss7-compat": "^2.0.2",
-    "parcel": "^2.0.0-beta.1",
-    "postcss": "^7.0.35",
-    "postcss-import": "^12.0.1",
+    "parcel": "^2.0.0-nightly.500",
+    "postcss": "^8.2.2",
+    "postcss-import": "^14.0.0",
     "postcss-preset-env": "^6.7.0",
-    "postcss-url": "^8.0.0",
+    "postcss-url": "^10.1.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
+    "tailwindcss": "^2.0.2"
   },
   "devDependencies": {}
 }

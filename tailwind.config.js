@@ -1,5 +1,5 @@
 module.exports = {
-    purge: {
+    purge: process.env.NODE_ENV === 'development' ? false : {
         content: ['./src/**/*.html', './src/**/*.js'],
         css: ['./src/**/*.css']
     },
