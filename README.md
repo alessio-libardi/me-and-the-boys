@@ -1,10 +1,9 @@
 <p align="center">
-  <img alt="Logo" src="https://github.com/alessio-libardi/me-and-the-boys/blob/master/src/assets/logo.svg?raw=true" width="33.33%">
+  <img alt="Logo" src="https://github.com/alessio-libardi/me-and-the-boys/blob/master/src/assets/logo.svg?raw=true" width="25%">
 </p>
 
-# Me and the Boys
-
-Me and the Boys website.
+# Me & The Boys
+Me and the Boys website showcase.
 
 ## Contributors
 Following the contributors to this awesome project.
