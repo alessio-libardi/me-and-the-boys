@@ -7,7 +7,9 @@
 Me and the Boys website.
 
 ## Contributors
+Following the contributors to this awesome project.
 * [Alessio Libardi](https://github.com/alessio-libardi)
-* [Benjamin Minarski](https://github.com/alessio-libardi)
-* [Lorenzo Cavada](https://github.com/alessio-libardi)
-* [Nicola Spadari](https://github.com/alessio-libardi)
+* [Benjamin Minarski](https://github.com/Benrski)
+* [Lorenzo Cavada](https://github.com/LorenzoCavada)
+* [Nicola Spadari](https://github.com/NicolaSpadari)
+* [Samantha Tonin](https://instagram.com/stona.art)
